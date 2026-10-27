@@ -1,0 +1,8 @@
+
+pandas
+plotly
+psycopg2-binary
+python-dotenv
+requests
+streamlit
+streamlit-autorefresh
